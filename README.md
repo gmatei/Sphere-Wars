@@ -1,2 +1,2 @@
 # Sphere Wars
- Original game developed in Unity
+Proiect realizat în vederea obținerii atestatului profesional în informatică
